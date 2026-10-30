@@ -1,6 +1,8 @@
 # gmmcovearn
 Generalized Method of Moments (GMM) estimator for covariance structure of earnings Use gmmcovearn With STATA 19
 
+https://www.youtube.com/watch?v=cTEetafXYss
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
